@@ -1,6 +1,34 @@
 # wordpress-vscode-plugins
 Curated WordPress development VS Code plugin list for reuse
 
+## Prerequisites
+
+Before using the installation script, you need to have the VS Code command line interface (`code` command) available in your PATH.
+
+### Installing the `code` command
+
+**On macOS:**
+1. Open VS Code
+2. Press `Cmd+Shift+P` to open the Command Palette
+3. Type "shell command" and select "Shell Command: Install 'code' command in PATH"
+
+**On Windows:**
+- The `code` command is automatically added to your PATH during VS Code installation
+- If not available, reinstall VS Code and ensure "Add to PATH" is checked during installation
+
+**On Linux:**
+- If you installed VS Code via snap: `sudo snap alias code.code code`
+- If you installed via .deb or .rpm: the `code` command should be automatically available
+- Manual installation: Add VS Code to your PATH by adding this to your `~/.bashrc` or `~/.zshrc`:
+  ```bash
+  export PATH="$PATH:/path/to/VSCode/bin"
+  ```
+
+To verify the `code` command is installed:
+```bash
+code --version
+```
+
 ## Installation
 
 Install all plugins with one command:
