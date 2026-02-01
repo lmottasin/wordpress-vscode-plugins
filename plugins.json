@@ -1,0 +1,74 @@
+{
+  "plugins": [
+    {
+      "id": "wordpresstoolbox.wordpress-toolbox",
+      "name": "WordPress Toolbox",
+      "description": "WordPress development toolbox with code snippets"
+    },
+    {
+      "id": "tungvn.wordpress-snippet",
+      "name": "WordPress Snippets",
+      "description": "WordPress snippets for faster development"
+    },
+    {
+      "id": "bmewburn.vscode-intelephense-client",
+      "name": "PHP Intelephense",
+      "description": "PHP intellisense and code completion"
+    },
+    {
+      "id": "xdebug.php-debug",
+      "name": "PHP Debug",
+      "description": "Debug support for PHP with Xdebug"
+    },
+    {
+      "id": "felixfbecker.php-intellisense",
+      "name": "PHP IntelliSense",
+      "description": "Advanced autocompletion and refactoring support for PHP"
+    },
+    {
+      "id": "neilbrayfield.php-docblocker",
+      "name": "PHP DocBlocker",
+      "description": "PHP documentation generator"
+    },
+    {
+      "id": "mrmlnc.vscode-phpcs",
+      "name": "phpcs",
+      "description": "PHP CodeSniffer integration"
+    },
+    {
+      "id": "junstyle.php-cs-fixer",
+      "name": "PHP CS Fixer",
+      "description": "PHP coding standards fixer"
+    },
+    {
+      "id": "dbaeumer.vscode-eslint",
+      "name": "ESLint",
+      "description": "JavaScript linting"
+    },
+    {
+      "id": "esbenp.prettier-vscode",
+      "name": "Prettier",
+      "description": "Code formatter"
+    },
+    {
+      "id": "bradlc.vscode-tailwindcss",
+      "name": "Tailwind CSS IntelliSense",
+      "description": "Tailwind CSS support"
+    },
+    {
+      "id": "formulahendry.auto-rename-tag",
+      "name": "Auto Rename Tag",
+      "description": "Auto rename paired HTML/XML tags"
+    },
+    {
+      "id": "christian-kohler.path-intellisense",
+      "name": "Path Intellisense",
+      "description": "Autocomplete file paths"
+    },
+    {
+      "id": "eamodio.gitlens",
+      "name": "GitLens",
+      "description": "Git supercharged"
+    }
+  ]
+}
