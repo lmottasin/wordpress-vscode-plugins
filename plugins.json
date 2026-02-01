@@ -1,0 +1,118 @@
+{
+  "plugins": [
+    {
+      "id": "xdebug.php-debug",
+      "name": "PHP Debug",
+      "description": "Debug PHP code with Xdebug",
+      "category": "PHP Development"
+    },
+    {
+      "id": "bmewburn.vscode-intelephense-client",
+      "name": "PHP Intelephense",
+      "description": "PHP language support",
+      "category": "PHP Development"
+    },
+    {
+      "id": "neilbrayfield.php-docblocker",
+      "name": "PHP DocBlocker",
+      "description": "Generate PHP docblocks",
+      "category": "PHP Development"
+    },
+    {
+      "id": "wongjn.php-sniffer",
+      "name": "PHP Sniffer",
+      "description": "PHP code sniffer integration",
+      "category": "PHP Development"
+    },
+    {
+      "id": "recca0120.vscode-phpunit",
+      "name": "PHPUnit",
+      "description": "PHPUnit test runner",
+      "category": "PHP Development"
+    },
+    {
+      "id": "johnbillion.vscode-wordpress-hooks",
+      "name": "WordPress Hooks IntelliSense",
+      "description": "WordPress hooks autocomplete",
+      "category": "WordPress Development"
+    },
+    {
+      "id": "wordpresstoolbox.wordpress-toolbox",
+      "name": "WordPress Toolbox",
+      "description": "WordPress development tools",
+      "category": "WordPress Development"
+    },
+    {
+      "id": "claudiosanches.woocommerce",
+      "name": "WooCommerce Snippets",
+      "description": "WooCommerce code snippets",
+      "category": "WordPress Development"
+    },
+    {
+      "id": "dbaeumer.vscode-eslint",
+      "name": "ESLint",
+      "description": "JavaScript linting",
+      "category": "JavaScript/Frontend"
+    },
+    {
+      "id": "esbenp.prettier-vscode",
+      "name": "Prettier",
+      "description": "Code formatter",
+      "category": "JavaScript/Frontend"
+    },
+    {
+      "id": "rvest.vs-code-prettier-eslint",
+      "name": "Prettier ESLint",
+      "description": "Prettier + ESLint integration",
+      "category": "JavaScript/Frontend"
+    },
+    {
+      "id": "bradlc.vscode-tailwindcss",
+      "name": "Tailwind CSS IntelliSense",
+      "description": "Tailwind CSS support",
+      "category": "JavaScript/Frontend"
+    },
+    {
+      "id": "formulahendry.auto-close-tag",
+      "name": "Auto Close Tag",
+      "description": "Auto close HTML/XML tags",
+      "category": "JavaScript/Frontend"
+    },
+    {
+      "id": "formulahendry.auto-rename-tag",
+      "name": "Auto Rename Tag",
+      "description": "Auto rename paired tags",
+      "category": "JavaScript/Frontend"
+    },
+    {
+      "id": "ms-playwright.playwright",
+      "name": "Playwright Test",
+      "description": "End-to-end testing",
+      "category": "Testing & Debugging"
+    },
+    {
+      "id": "streetsidesoftware.code-spell-checker",
+      "name": "Code Spell Checker",
+      "description": "Spell checking",
+      "category": "Utilities"
+    },
+    {
+      "id": "bierner.markdown-mermaid",
+      "name": "Markdown Mermaid",
+      "description": "Mermaid diagrams in markdown",
+      "category": "Utilities"
+    },
+    {
+      "id": "redhat.vscode-yaml",
+      "name": "YAML",
+      "description": "YAML language support",
+      "category": "Utilities"
+    },
+    {
+      "id": "ms-vsliveshare.vsliveshare",
+      "name": "Live Share",
+      "description": "Real-time collaboration",
+      "category": "Utilities"
+    }
+  ]
+}
