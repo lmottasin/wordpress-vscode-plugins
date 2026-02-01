@@ -1,74 +1,118 @@
 {
   "plugins": [
     {
-      "id": "wordpresstoolbox.wordpress-toolbox",
-      "name": "WordPress Toolbox",
-      "description": "WordPress development toolbox with code snippets"
-    },
-    {
-      "id": "tungvn.wordpress-snippet",
-      "name": "WordPress Snippets",
-      "description": "WordPress snippets for faster development"
+      "id": "xdebug.php-debug",
+      "name": "PHP Debug",
+      "description": "Debug PHP code with Xdebug",
+      "category": "PHP Development"
     },
     {
       "id": "bmewburn.vscode-intelephense-client",
       "name": "PHP Intelephense",
-      "description": "PHP intellisense and code completion"
-    },
-    {
-      "id": "xdebug.php-debug",
-      "name": "PHP Debug",
-      "description": "Debug support for PHP with Xdebug"
-    },
-    {
-      "id": "felixfbecker.php-intellisense",
-      "name": "PHP IntelliSense",
-      "description": "Advanced autocompletion and refactoring support for PHP"
+      "description": "PHP language support",
+      "category": "PHP Development"
     },
     {
       "id": "neilbrayfield.php-docblocker",
       "name": "PHP DocBlocker",
-      "description": "PHP documentation generator"
+      "description": "Generate PHP docblocks",
+      "category": "PHP Development"
     },
     {
-      "id": "mrmlnc.vscode-phpcs",
-      "name": "phpcs",
-      "description": "PHP CodeSniffer integration"
+      "id": "wongjn.php-sniffer",
+      "name": "PHP Sniffer",
+      "description": "PHP code sniffer integration",
+      "category": "PHP Development"
     },
     {
-      "id": "junstyle.php-cs-fixer",
-      "name": "PHP CS Fixer",
-      "description": "PHP coding standards fixer"
+      "id": "recca0120.vscode-phpunit",
+      "name": "PHPUnit",
+      "description": "PHPUnit test runner",
+      "category": "PHP Development"
+    },
+    {
+      "id": "johnbillion.vscode-wordpress-hooks",
+      "name": "WordPress Hooks IntelliSense",
+      "description": "WordPress hooks autocomplete",
+      "category": "WordPress Development"
+    },
+    {
+      "id": "wordpresstoolbox.wordpress-toolbox",
+      "name": "WordPress Toolbox",
+      "description": "WordPress development tools",
+      "category": "WordPress Development"
+    },
+    {
+      "id": "claudiosanches.woocommerce",
+      "name": "WooCommerce Snippets",
+      "description": "WooCommerce code snippets",
+      "category": "WordPress Development"
     },
     {
       "id": "dbaeumer.vscode-eslint",
       "name": "ESLint",
-      "description": "JavaScript linting"
+      "description": "JavaScript linting",
+      "category": "JavaScript/Frontend"
     },
     {
       "id": "esbenp.prettier-vscode",
       "name": "Prettier",
-      "description": "Code formatter"
+      "description": "Code formatter",
+      "category": "JavaScript/Frontend"
+    },
+    {
+      "id": "rvest.vs-code-prettier-eslint",
+      "name": "Prettier ESLint",
+      "description": "Prettier + ESLint integration",
+      "category": "JavaScript/Frontend"
     },
     {
       "id": "bradlc.vscode-tailwindcss",
       "name": "Tailwind CSS IntelliSense",
-      "description": "Tailwind CSS support"
+      "description": "Tailwind CSS support",
+      "category": "JavaScript/Frontend"
+    },
+    {
+      "id": "formulahendry.auto-close-tag",
+      "name": "Auto Close Tag",
+      "description": "Auto close HTML/XML tags",
+      "category": "JavaScript/Frontend"
     },
     {
       "id": "formulahendry.auto-rename-tag",
       "name": "Auto Rename Tag",
-      "description": "Auto rename paired HTML/XML tags"
+      "description": "Auto rename paired tags",
+      "category": "JavaScript/Frontend"
     },
     {
-      "id": "christian-kohler.path-intellisense",
-      "name": "Path Intellisense",
-      "description": "Autocomplete file paths"
+      "id": "ms-playwright.playwright",
+      "name": "Playwright Test",
+      "description": "End-to-end testing",
+      "category": "Testing & Debugging"
     },
     {
-      "id": "eamodio.gitlens",
-      "name": "GitLens",
-      "description": "Git supercharged"
+      "id": "streetsidesoftware.code-spell-checker",
+      "name": "Code Spell Checker",
+      "description": "Spell checking",
+      "category": "Utilities"
+    },
+    {
+      "id": "bierner.markdown-mermaid",
+      "name": "Markdown Mermaid",
+      "description": "Mermaid diagrams in markdown",
+      "category": "Utilities"
+    },
+    {
+      "id": "redhat.vscode-yaml",
+      "name": "YAML",
+      "description": "YAML language support",
+      "category": "Utilities"
+    },
+    {
+      "id": "ms-vsliveshare.vsliveshare",
+      "name": "Live Share",
+      "description": "Real-time collaboration",
+      "category": "Utilities"
     }
   ]
 }

@@ -11,22 +11,36 @@ Install all plugins with one command:
 
 ## Plugin List
 
-The `plugins.json` file contains a curated list of essential VS Code extensions for WordPress development, including:
+The `plugins.json` file contains a curated list of essential VS Code extensions for WordPress development:
 
-- **WordPress Toolbox** - WordPress development toolbox with code snippets
-- **WordPress Snippets** - WordPress snippets for faster development
-- **PHP Intelephense** - PHP intellisense and code completion
-- **PHP Debug** - Debug support for PHP with Xdebug
-- **PHP IntelliSense** - Advanced autocompletion and refactoring support for PHP
-- **PHP DocBlocker** - PHP documentation generator
-- **phpcs** - PHP CodeSniffer integration
-- **PHP CS Fixer** - PHP coding standards fixer
-- **ESLint** - JavaScript linting
-- **Prettier** - Code formatter
-- **Tailwind CSS IntelliSense** - Tailwind CSS support
-- **Auto Rename Tag** - Auto rename paired HTML/XML tags
-- **Path Intellisense** - Autocomplete file paths
-- **GitLens** - Git supercharged
+### PHP Development
+- **PHP Debug** (xdebug.php-debug) - Debug PHP code with Xdebug
+- **PHP Intelephense** (bmewburn.vscode-intelephense-client) - PHP language support
+- **PHP DocBlocker** (neilbrayfield.php-docblocker) - Generate PHP docblocks
+- **PHP Sniffer** (wongjn.php-sniffer) - PHP code sniffer integration
+- **PHPUnit** (recca0120.vscode-phpunit) - PHPUnit test runner
+
+### WordPress Development
+- **WordPress Hooks IntelliSense** (johnbillion.vscode-wordpress-hooks) - WordPress hooks autocomplete
+- **WordPress Toolbox** (wordpresstoolbox.wordpress-toolbox) - WordPress development tools
+- **WooCommerce Snippets** (claudiosanches.woocommerce) - WooCommerce code snippets
+
+### JavaScript/Frontend
+- **ESLint** (dbaeumer.vscode-eslint) - JavaScript linting
+- **Prettier** (esbenp.prettier-vscode) - Code formatter
+- **Prettier ESLint** (rvest.vs-code-prettier-eslint) - Prettier + ESLint integration
+- **Tailwind CSS IntelliSense** (bradlc.vscode-tailwindcss) - Tailwind CSS support
+- **Auto Close Tag** (formulahendry.auto-close-tag) - Auto close HTML/XML tags
+- **Auto Rename Tag** (formulahendry.auto-rename-tag) - Auto rename paired tags
+
+### Testing & Debugging
+- **Playwright Test** (ms-playwright.playwright) - End-to-end testing
+
+### Utilities
+- **Code Spell Checker** (streetsidesoftware.code-spell-checker) - Spell checking
+- **Markdown Mermaid** (bierner.markdown-mermaid) - Mermaid diagrams in markdown
+- **YAML** (redhat.vscode-yaml) - YAML language support
+- **Live Share** (ms-vsliveshare.vsliveshare) - Real-time collaboration
 
 ## Manual Installation
 
